@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @tamurtariq 
-- 👀 I’m interested in DevOps, Cloud Infrastructure, and Automation  
+- 👀 I’m interested in DevOps, Cloud Infrastructure, and Automation with Agentic Ai
+-    I have created Several Agentic Ai solution for DevOps workflows 
 - 🌱 I’m currently learning Kubernetes, Terraform, and advanced CI/CD practices  
 - 💼 I have experience with Jenkins, Docker, Git, GitLab, GitHub, Ansible, and AWS  
 - 💞️ I’m looking to collaborate on DevOps, System Reliability, and Infrastructure Automation  
