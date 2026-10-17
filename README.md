@@ -35,6 +35,9 @@ I help businesses replace manual, repetitive work with reliable AI-powered autom
 > Several of my larger projects are in private repositories for client or commercial reasons. The summaries below describe what they do; I'm happy to walk through them on a call.
 
 ### AI & automation systems
+- **[Foviq App](https://app.foviq.com/)**: an AI wellness app that builds a fresh workout, meal plan and recovery target every day, shaped by your menstrual cycle and how you feel.
+- **[Foviq Studio](https://design.foviq.com/)**: web design and development for business owners: fast, mobile-first custom sites built to bring in leads.
+- **[Style by Foviq](https://style.foviq.com/)**: a fashion, beauty and lifestyle content site.
 - **AI SEO and backlinking platform** ([foviq.com](https://foviq.com/)): an AI-assisted growth platform that automates SEO research, content workflows and outreach for businesses.
 - **Multi-agent content pipeline**: a Claude sub-agent pipeline (scout → strategist → writer → fact-checker → editor → SEO) that drafts articles into a human review queue. Nothing publishes without sign-off.
 - **AI log and upgrade reviewer**: an agent that reads application logs and system events during upgrades, flags anomalies and summarises what needs attention.
