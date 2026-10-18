@@ -130,7 +130,7 @@ Got a process that eats hours every week? Tell me about it.
 
 - 📧 **Email:** [mm_tamur@outlook.com](mailto:mm_tamur@outlook.com)
 - 🌐 **Website:** [foviq.com](https://foviq.com/)
-- 📍 **Based in:** Lahore, Pakistan (working with clients remotely)
+- 📍 **Based in:** Sangla Hill, Pakistan (working with clients remotely)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tamurtariq&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="150"/>
